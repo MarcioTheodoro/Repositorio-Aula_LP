@@ -9,4 +9,6 @@ echo "Seu resultado meu mestre: $resultado";
 
 echo "Ola Marcio, melhore!";
 
+echo "Poxa cara, assim você me quebra...";
+
 ?>
